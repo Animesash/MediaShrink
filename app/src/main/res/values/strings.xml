@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaShrink</string>
+
+    <string name="welcome_title">Добро пожаловать в MediaShrink! 🙌</string>
+    <string name="welcome_message">
+        Спасибо, что установили наше приложение. Это самая первая, ранняя альфа-версия (v0.1-alpha).\n\n
+        Мы создали этот компрессор полностью бесплатным, легким и без рекламы, чтобы вы могли экономить память на своем смартфоне в один клик.\n\n
+        Поскольку программа находится в активной разработке, внутри могут встречаться мелкие баги. Если что-то пойдет не так или у вас появится идея — мы будем рады вашей обратной связи!
+    </string>
+    <string name="ok">OK</string>
+
+    <string name="select_file">Выбрать аудиофайл</string>
+    <string name="no_file_selected">Файл не выбран</string>
+    <string name="file_name">Имя: %1$s</string>
+    <string name="file_duration">Длительность: %1$s</string>
+    <string name="file_original_size">Исходный размер: %1$s</string>
+    <string name="bitrate_label">Битрейт</string>
+    <string name="estimated_size">Примерный размер после сжатия: %1$s</string>
+    <string name="compress_button">Сжать</string>
+    <string name="compressing">Сжатие...</string>
+    <string name="compression_complete">Готово! Файл сохранён:\n%1$s</string>
+    <string name="compression_error">Ошибка: %1$s</string>
+    <string name="codec_label">Кодек</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="settings_icon_description">Настройки</string>
+    <string name="save_location_section">Место сохранения</string>
+    <string name="default_folder_text">По умолчанию (папка приложения)</string>
+    <string name="current_folder_label">Текущая папка: %1$s</string>
+    <string name="choose_folder_button">Выбрать папку</string>
+    <string name="reset_folder_button">Сбросить (использовать по умолчанию)</string>
+    <string name="folder_selected_toast">Папка сохранения обновлена</string>
+</resources>
