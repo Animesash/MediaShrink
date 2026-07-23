@@ -31,11 +31,11 @@
 
 ## 📥 Скачать
 
-Готовы освободить место на телефоне?
-
-**[⬇️ Скачать APK →](https://github.com/Animesash/MediaShrink/releases)**
-
-*Просто скачайте, установите и начните сжимать файлы уже сегодня.*
+<p align="center">
+  <a href="https://github.com/Animesash/MediaShrink/releases">
+    <img src="docs/buttons/github.svg" alt="Get it on GitHub" height="55">
+  </a>
+</p>
 
 ---
 
@@ -159,6 +159,8 @@
 <details>
 <summary><b>Приватность и безопасность</b></summary>
 
+- [x] Локальная обработка данных (без отправки на сервер)
+- [x] Отсутствие сбора аналитики и трекинга
 - [ ] Очистка EXIF-метаданных
 
 </details>
@@ -179,36 +181,8 @@
 
 </details>
 
+---
 
-
-<p <details>
-<summary><b>🗑 Хранилище и очистка</b></summary>
-
-- ☐ Автоочистка временного кэша и буферов
-- ☐ Автоудаление исходных файлов после обработки
-- ☐ Защищенная корзина с отменой удаления
-
-</details>
-
-<details>
-<summary><b>🔐 Приватность и безопасность</b></summary>
-
-- ☐ Очистка EXIF-метаданных
-
-</details>
-
-<details>
-<summary><b>🎵 Поддержка аудиоформатов</b></summary>
-
-- ☐ MP3 (универсальный)
-- ☐ AAC / M4A (баланс качества)
-- ☐ FLAC (без потерь)
-- ☐ ALAC (Apple Lossless)
-- ☐ APE (Monkey's Audio)
-- ☐ OGG Vorbis / Opus (эффективный)
-- ☐ WAV / AIFF (студийный несжатый)
-- ☐ AC-3 (Dolby Digital)
-- ☐ LDAC (Bluetooth Hi-Res)
-- ☐ Lyra / EnCodec (нейросетевое AI-сжатие)
-
-</details>
+<p align="center">
+  Сделано с ❤️ для приватности пользователей
+</p>
